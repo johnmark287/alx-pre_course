@@ -1,5 +1,5 @@
 My first readme
 
-# making changes
+# About git
 
 Learning git and github 
